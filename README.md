@@ -24,7 +24,7 @@ Ing. Ricardo Luna Santos
 
 
 # Objetivo del videojuego
-Un videojuego que sea interesante y entretenido, por eliminar enemigos que sea ha tomado posicion en la casa de estudios Utxj, y asi la comunidad estudiantil saber que su casa a quedado limpia e seguir laborando en ella, Recordando que la "La Utxj depende de ti" 
+Crear videojuego que logre ser interesante y entretenido para el publico estudiantil que este interesado en la Universidad Tecnologica de Xicotepec de Juarez,donde el objetivo es eliminar zombies que emergieron en una de las carreras que oferta la casa de estudios. La mision es limpiar la universidad de la infestacion, dando paso a poder retomar los estudios. Recordando que la "La Utxj depende de ti" 
 
 # API
 La API sera alojada en servidores de Azure, el cual es un servicio web de Microsoft.
