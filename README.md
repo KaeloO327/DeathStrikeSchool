@@ -1,5 +1,3 @@
-<p align="right"><img src="https://user-images.githubusercontent.com/79369079/193988245-b785722d-7d24-45b4-afbb-17df8d000c32.png" width="25%" align="left"> <img src="https://user-images.githubusercontent.com/79369079/193988280-3675a479-f021-4a10-8051-63e70b42eceb.png" width="35%"/>
-<p>
 
 #
 # DeathStrikeSchool
@@ -46,3 +44,6 @@ Un videojuego que sea interesante y entretenido, por eliminar enemigos que sea h
 ## Modelo Relacional
 ![relacional](https://user-images.githubusercontent.com/79369079/199857315-48935624-6ff3-499c-a3bf-d9e1728e42e7.png)
 
+#
+<p align="right"><img src="https://user-images.githubusercontent.com/79369079/193988245-b785722d-7d24-45b4-afbb-17df8d000c32.png" width="25%" align="left"> <img src="https://user-images.githubusercontent.com/79369079/193988280-3675a479-f021-4a10-8051-63e70b42eceb.png" width="35%"/>
+<p>
