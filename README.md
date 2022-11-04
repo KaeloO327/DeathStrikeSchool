@@ -26,7 +26,7 @@ Ing. Ricardo Luna Santos
 
 
 # Objetivo del videojuego
-Un videojuego que sea interesante y entretenido, por eliminar enemigos que sea ha tomado posicion en la casa de estudios Utxj, y asi la comunidad estudiantil saber que su casa a quedado limpia e seguir laborando en llega, Recordando que la "La Utxj depende de ti" 
+Un videojuego que sea interesante y entretenido, por eliminar enemigos que sea ha tomado posicion en la casa de estudios Utxj, y asi la comunidad estudiantil saber que su casa a quedado limpia e seguir laborando en ella, Recordando que la "La Utxj depende de ti" 
 
 # Herramientas:
 •	Visual Studio Code
@@ -41,6 +41,7 @@ Un videojuego que sea interesante y entretenido, por eliminar enemigos que sea h
 •	Lenguaje de Programación C#
 
 •	DevTools
+
 
 Modelo Relacional
 ![relacional](https://user-images.githubusercontent.com/79369079/199857315-48935624-6ff3-499c-a3bf-d9e1728e42e7.png)
