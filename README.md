@@ -43,6 +43,6 @@ Un videojuego que sea interesante y entretenido, por eliminar enemigos que sea h
 •	DevTools
 
 
-Modelo Relacional
+## Modelo Relacional
 ![relacional](https://user-images.githubusercontent.com/79369079/199857315-48935624-6ff3-499c-a3bf-d9e1728e42e7.png)
 
