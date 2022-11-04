@@ -41,8 +41,12 @@ Un videojuego que sea interesante y entretenido, por eliminar enemigos que sea h
 •	DevTools
 
 
-## Modelo Relacional
-![relac-2](https://user-images.githubusercontent.com/79369079/199858845-322aa1d8-7aa7-4ab6-a8d9-34a044a47b7a.png)
+## Diagrama Relacional 
+![relac-2](https://user-images.githubusercontent.com/79369079/199860025-2f258137-4dab-4aaf-8227-d6791b8af3bc.png)
+
+
+## Diagrama E-R
+![Captura de pantalla 2022-11-03 161901](https://user-images.githubusercontent.com/79369079/199859835-87047c7f-35ad-4560-853a-8b43bd0be440.png)
 
 
 #
