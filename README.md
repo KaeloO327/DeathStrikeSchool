@@ -46,8 +46,7 @@ Un videojuego que sea interesante y entretenido, por eliminar enemigos que sea h
 
 
 ## Diagrama E-R
-![Captura de pantalla 2022-11-03 161901](https://user-images.githubusercontent.com/79369079/199859835-87047c7f-35ad-4560-853a-8b43bd0be440.png)
-
+![Captura de pantalla 2022-11-03 161901](https://user-images.githubusercontent.com/77937686/199860398-0d077160-a7a5-443a-8e98-2639096e895d.png)
 
 #
 <p align="right"><img src="https://user-images.githubusercontent.com/79369079/193988245-b785722d-7d24-45b4-afbb-17df8d000c32.png" width="25%" align="left"> <img src="https://user-images.githubusercontent.com/79369079/193988280-3675a479-f021-4a10-8051-63e70b42eceb.png" width="35%"/>
