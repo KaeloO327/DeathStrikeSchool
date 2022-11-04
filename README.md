@@ -26,6 +26,10 @@ Ing. Ricardo Luna Santos
 # Objetivo del videojuego
 Un videojuego que sea interesante y entretenido, por eliminar enemigos que sea ha tomado posicion en la casa de estudios Utxj, y asi la comunidad estudiantil saber que su casa a quedado limpia e seguir laborando en ella, Recordando que la "La Utxj depende de ti" 
 
+# API
+La API sera alojada en servidores de Azure, el cual es un servicio web de Microsoft.
+![azure](https://user-images.githubusercontent.com/77937686/199860853-7d713366-fa9b-4965-abbd-43a183d70899.png)
+
 # Herramientas:
 •	Visual Studio Code
 
